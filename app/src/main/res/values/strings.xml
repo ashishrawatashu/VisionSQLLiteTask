@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VisionsTask</string>
+    <string name="ShowData">Show Data</string>
+    <string name="addData">Add Data</string>
+    <string name="enterName">Enter Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="saveData">Save</string>
+    <string name="searchbyName">Search by name</string>
+</resources>
